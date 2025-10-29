@@ -23,5 +23,6 @@ Track **daily intake & burn**, view **net calories**, and visualize **monthly tr
 ---
 
 ## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b40aaa65-2527-4c7e-b543-7aef7d4b1d51" />
 
 
